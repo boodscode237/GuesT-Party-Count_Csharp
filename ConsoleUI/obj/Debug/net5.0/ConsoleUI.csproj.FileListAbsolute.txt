@@ -1,0 +1,16 @@
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+C:\Users\Дональд\source\repos\MiniProject02\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
